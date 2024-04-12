@@ -89,7 +89,7 @@ def add_x_key_header(response):
 
 @app.route("/")
 def home():
-    return redirect("https://countabc.xyz")
+    return redirect("https://documenter.getpostman.com/view/33991252/2sA35MxJR8")
 
 
 @app.route("/get/<key>")
